@@ -1,3 +1,4 @@
+<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "2aa77921bd8c40b2a45e8dac7c80ca3b"}'></script><!-- End Cloudflare Web Analytics -->
 <div class="container">
   <form action="upload.php" method="post"  enctype="multipart/form-data">
     <div class="form-group">
